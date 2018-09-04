@@ -27,3 +27,9 @@ y6 75 = (60+70+80+90)/4
 y7 85 = (70+80+90+100)/4
 
 Thus, the moving average sequence has n-k+1=10-4+1=7 values.
+
+Problem Statement
+
+Write a function to find moving average in an array over a window:
+
+Test it over [3, 5, 7, 2, 8, 10, 11, 65, 72, 81, 99, 100, 150] and window of 3.
