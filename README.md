@@ -9,6 +9,7 @@ The moving averages with k=4 of a ten-value sequence (n=10) is shown below
 i 1 2 3 4 5 6 7 8 9 10
 
 ===== == == == == == == == == == ==
+
 Input 10 20 30 40 50 60 70 80 90 100
 
 y1 25 = (10+20+30+40)/4
